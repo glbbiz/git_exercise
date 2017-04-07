@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aabbbb, aba:wq
+=======
+aa
+>>>>>>> branch 'new' of https://github.com/glbbiz/git_exercise.git
